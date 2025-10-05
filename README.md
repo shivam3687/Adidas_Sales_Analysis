@@ -1,0 +1,1 @@
+In this google Notebook, I have done exploratory data analysis on the footwear sales from different region and from different sales methods.I have analyse the data region wise.I have analysed the sales of footwear from different store. 
